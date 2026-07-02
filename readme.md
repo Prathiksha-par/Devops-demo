@@ -2,4 +2,4 @@
 
 Sample file!!
 <br>
-Attach files by dragging and dropping
+Attach files by
